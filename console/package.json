@@ -61,7 +61,7 @@
     "@tanstack/vue-query": "^4.29.1",
     "@tiptap/extension-character-count": "^2.0.4",
     "@uppy/core": "^3.8.0",
-    "@uppy/dashboard": "^3.7.1",
+    "@uppy/dashboard": "^4.2.0",
     "@uppy/drag-drop": "^3.0.3",
     "@uppy/file-input": "^3.0.4",
     "@uppy/locales": "^3.5.0",
